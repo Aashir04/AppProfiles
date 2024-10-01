@@ -1,7 +1,7 @@
 # Profitable App Profiles for the App Store and Google Play Markets
 
 ## Project Description
-This project aims to analyze data from the App Store and Google Play to identify which types of free apps are the most profitable, particularly for a company that generates revenue through in-app ads. By determining which categories of apps attract the most users, developers can focus on creating apps that maximize visibility and revenue potential.
+This project aims to analyse data from the App Store and Google Play to identify which types of free apps are the most profitable, particularly for a company that generates revenue through in-app ads. By determining which categories of apps attract the most users, developers can focus on creating apps that maximize visibility and revenue potential.
 
 The analysis focuses on understanding consumer preferences to help guide decisions on app development.
 
